@@ -1,0 +1,104 @@
+		.a
+	{
+		font-size: 20px;
+		font-family: arial;
+		word-spacing: 2px;
+		background-color: black;
+		padding-bottom: 25px;
+		margin-top: 50px;
+		word-spacing:30px;
+	   
+	    color:red;
+	    padding-top: 25px;
+	    text-align: center;
+	   
+
+	}
+	body
+	{
+		background: url("rose.jpg");
+	}
+	h2
+	{
+		text-decoration: underline;
+		text-align: center;
+	}
+	.s
+	{
+		position: absolute;
+		color: white;
+		font-size: 15px;
+		font-family:sans-serif;
+		margin-left: 20px;
+		margin-right: 920px;
+		margin-top: 50px;
+		padding-left: 20px;
+		padding-right:20px;
+		padding-top: 20px;
+		padding-bottom: 45px;
+		background-color: rgba(56, 55, 55 , 0.4);
+	}
+	p
+	{
+		text-align: justify;
+	}
+	
+	.s1
+	{
+		position: absolute;
+		color: white;
+		font-size: 15px;
+		font-family:sans-serif;
+		margin-left: 470px;
+		margin-right:470px;
+		margin-top: 50px;
+		padding-left: 20px;
+		padding-right:20px;
+		padding-top: 20px;
+		padding-bottom: 45px;
+		background-color: rgba(56, 55, 55 , 0.4);
+	}
+	.s2
+	{
+		position: absolute;
+		color: white;
+		font-size: 15px;
+		font-family:sans-serif;
+		margin-left: 920px;
+		margin-right:20px;
+		margin-top: 50px;
+		padding-left: 20px;
+		padding-right:20px;
+		padding-top: 20px;
+		padding-bottom: 45px;
+		background-color: rgba(56, 55, 55 , 0.4);
+	}
+	
+	footer
+	{
+		text-align: center;
+		background-color: black;
+		font-size: 15px;
+		font-family:serif;
+		margin-top: 360px;
+		padding-top: 10px;
+		padding-bottom:10px;
+		color: white;
+	}
+@media only screen and (max-width:600px)
+{
+
+		.s 
+		{
+		margin-top:2px;	
+		margin-left:40px;
+
+
+		}
+		.s1{
+			margin-top: 2px;
+		}
+		.s2{
+			margin-top:2px;
+		}
+	}
